@@ -1,5 +1,5 @@
 # SAGAN
-A Subgraph-Aware Graph Attention Network for Drug-Disease repositioning
+A Subgraph-Aware Graph Attention Network for Drug repositioning
 
 # Requirments
 
