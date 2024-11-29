@@ -1,5 +1,6 @@
 # SAGAN
-A Subgraph-Aware Graph Attention Network for Drug repositioning
+SAGAN: A Subgraph-Aware Graph Attention Network for Drug repositioning
+Xiangmao Meng, Xinqiang Wen,Xinliang Sun, Ju Xiang, Yahui Long, Xuan Lin* and Min Li*
 
 # Requirments
 
