@@ -29,5 +29,6 @@ run main.py
 # Cite
 ```
 If you use SAGAN in your research, please cite:
-Xiangmao Meng, Xinqiang Wen,Xinliang Sun, Ju Xiang, Yahui Long, Xuan Lin* and Min Li*.SAGAN: A Subgraph-Aware Graph Attention Network for Drug repositioning[J]**,2024.
+Xiangmao Meng, Xinqiang Wen,Xinliang Sun, Ju Xiang, Yahui Long, Xuan Lin* and Min Li*.
+SAGAN: A Subgraph-Aware Graph Attention Network for Drug repositioning[J]**,2024.
 ```
