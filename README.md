@@ -26,3 +26,8 @@ Note: If there is a problem with the torch-sparse installation, please use the l
 ```
 run main.py
 ```
+# Cite
+```
+If you use SAGAN in your research, please cite:
+Xiangmao Meng, Xinqiang Wen,Xinliang Sun, Ju Xiang, Yahui Long, Xuan Lin* and Min Li*.SAGAN: A Subgraph-Aware Graph Attention Network for Drug repositioning[J]**,2024.
+```
